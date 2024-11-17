@@ -10,7 +10,7 @@
 
 ## Introduction
 
-* In this preject we segment credit card clients into differnt groups to help identify patterns as to apply specific business strategies per group.
+* In this preject we segment credit card customers into different groups to help identify patterns as to apply specific business strategies per group.
 
 * We explored the data, visualized feature trends and their correlations with the target variable, applied one-hot encoding, scaled the data, determined the optimal number of clusters using an elbow curve, built the clustering model, and analyzed the results for each cluster.
 
